@@ -6,4 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
