@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
