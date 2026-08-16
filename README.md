@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0127-word-ladder) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
