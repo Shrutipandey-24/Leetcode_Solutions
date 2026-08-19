@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
