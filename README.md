@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
