@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -156,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
