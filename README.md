@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
