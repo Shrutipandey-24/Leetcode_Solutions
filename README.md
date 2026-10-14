@@ -162,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+| [1009-complement-of-base-10-integer](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
