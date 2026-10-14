@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
