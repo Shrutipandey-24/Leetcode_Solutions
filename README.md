@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0875-koko-eating-bananas](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Linked List
 |  |
