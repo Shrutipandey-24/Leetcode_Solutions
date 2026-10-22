@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
