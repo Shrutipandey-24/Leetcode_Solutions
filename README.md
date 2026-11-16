@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0619-biggest-single-number) |
 | [1179-reformat-department-table](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1179-reformat-department-table) |
 ## Bit Manipulation
 |  |
