@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shrutipandey-24/Leetcode_Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Memoization
 |  |
